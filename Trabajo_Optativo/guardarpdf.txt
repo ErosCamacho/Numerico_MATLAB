@@ -1,0 +1,4 @@
+PARA GUARDAR COMO PDF , copiar y pegar en lo principal de MATLAB
+set(gcf,'PaperUnits', 'centimeters');
+set(gcf, 'paperposition', [-10 0 5 5]);
+set(gcf, 'papersize', [30 18]);

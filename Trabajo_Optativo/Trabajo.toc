@@ -1,0 +1,27 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{2}
+\contentsline {section}{\numberline {2}An\IeC {\'a}lisis del problema}{3}
+\contentsline {subsection}{\numberline {2.1}Enfermedad sin eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{3}
+\contentsline {subsection}{\numberline {2.2}Enfermedad con eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{5}
+\contentsline {section}{\numberline {3}Metodolog\IeC {\'\i }a de resoluci\IeC {\'o}n}{6}
+\contentsline {section}{\numberline {4}C\IeC {\'o}digos}{7}
+\contentsline {subsection}{\numberline {4.1}Enfermedad sin eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{7}
+\contentsline {subsection}{\numberline {4.2}M\IeC {\'e}todo Runge-Kutta de orden 4 modificado}{9}
+\contentsline {subsection}{\numberline {4.3}Enfermedad con eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{10}
+\contentsline {subsection}{\numberline {4.4}M\IeC {\'e}todo de Heun modificado}{11}
+\contentsline {subsection}{\numberline {4.5}Comparaci\IeC {\'o}n entre los dos problemas}{12}
+\contentsline {subsection}{\numberline {4.6}Comentarios acerca de los programas}{14}
+\contentsline {section}{\numberline {5}Resultados num\IeC {\'e}ricos}{15}
+\contentsline {subsection}{\numberline {5.1}Enfermedad sin eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{15}
+\contentsline {subsection}{\numberline {5.2}Enfermedad con eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{17}
+\contentsline {subsection}{\numberline {5.3}Comparaci\IeC {\'o}n entre los dos problemas}{18}
+\contentsline {section}{\numberline {6}An\IeC {\'a}lisis de resultados obtenidos}{19}
+\contentsline {subsection}{\numberline {6.1}Enfermedad sin eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{19}
+\contentsline {subsection}{\numberline {6.2}Enfermedad con eliminaci\IeC {\'o}n de la poblaci\IeC {\'o}n}{21}
+\contentsline {subsection}{\numberline {6.3}Comparaci\IeC {\'o}n entre los dos problemas}{23}
+\contentsline {section}{\numberline {7}Caso Pr\IeC {\'a}ctico: Pandemia de \IeC {\'e}bola en 2014}{25}
+\contentsline {subsection}{\numberline {7.1}Antecedentes}{25}
+\contentsline {subsection}{\numberline {7.2}Descripci\IeC {\'o}n del problema}{25}
+\contentsline {subsection}{\numberline {7.3}C\IeC {\'o}digo}{28}
+\contentsline {subsection}{\numberline {7.4}Resultados num\IeC {\'e}ricos}{29}
+\contentsline {section}{Bibliograf\'{\i }a}{30}

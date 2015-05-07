@@ -1,0 +1,87 @@
+\begin{figure}[ht]
+\flushright
+\vspace{-2.3cm}
+\includegraphics[width=3cm]{logo}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica1.pdf}
+\caption{N\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {u\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 u\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {u\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor mero de infectados frente al tiempo}
+\label{Fig:1}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica2.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo (soluci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n anal\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {\OT1\i \global \mathchardef \accent@spacefactor \spacefactor }\accent 19 \OT1\i \egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {\OT1\i \global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor tica)}
+\label{Fig:2}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica3.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo (soluci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n num\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {e\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 e\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {e\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor rica)}
+\label{Fig:3}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica4.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n eliminada frente al tiempo}
+\label{Fig:4}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica5.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo}
+\label{Fig:5}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica6.pdf}
+\caption{Comparaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo}
+\label{Fig:6}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica7.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo (b=100)}
+\label{Fig:7}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica8.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo (b=100000)}
+\label{Fig:8}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica9.pdf}
+\caption{Poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo (b=100000)}
+\label{Fig:9}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}[h!]
+\centering
+\includegraphics[width=1\textwidth]{grafica10.pdf}
+\caption{Comparaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n poblaci\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor n infectada/sana frente al tiempo, siendo una m\penalty \@M \hskip \z@skip \unhbox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {a\global \mathchardef \accent@spacefactor \spacefactor }\accent 19 a\egroup \spacefactor \accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {a\global \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefactor s virulenta que otra.}
+\label{Fig:10}
+\end{figure}
+\efloatseparator
+ 

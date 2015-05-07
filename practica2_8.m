@@ -1,0 +1,13 @@
+clear
+clc
+A=[2,2,0,6;4,2,-2,2;6,-2,-2,4;-2,4,6,-2];
+b=[8;2;-6;8];
+%MetodoInversa
+x1=inv(A)*b
+%Metododivmat
+x2=A\b
+%MetodoLU
+[L,U,P]=lu(A);
+B=P*b;
+y=L\B;
+x3=U\y
